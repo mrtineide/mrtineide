@@ -3,7 +3,7 @@
 I'm a student @UiB studying [Informatics-Mathematics-Economy Bachelor's](https://www.uib.no/en/studies/BATF-IM%C3%98)
 
 
-You can reach me @mrtineide at most platforms 😀
+You can reach me @mrtineide on most platforms 😀
 
 <!--
 **mrtineide/mrtineide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
