@@ -5,7 +5,7 @@ I'm a student @UiB studying [Informatics-Mathematics-Economy Bachelor's](https:/
 
 You can reach me @mrtineide on most platforms 😀
 
-psst: This was made with the commit de6c2f2353734ebd739d39910f68e7dcef0e5dcd
+psst: This was made with the commit mrtineide@de6c2f2353734ebd739d39910f68e7dcef0e5dcd
 
 <!--
 **mrtineide/mrtineide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
