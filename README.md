@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-I'm a student @UiB studying [Software Engineering, Master's](https://www.uib.no/en/studies/MAMN-PROG)
-
-
 You can reach me @mrtineide on most platforms 😀
 
 <!--
