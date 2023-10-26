@@ -2,6 +2,8 @@
 
 You can reach me @mrtineide on most platforms 😀
 
+I also have a webpage you can check out, [mrtineide.no](https://mrtineide.no) 👨‍💻
+
 <!--
 **mrtineide/mrtineide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
